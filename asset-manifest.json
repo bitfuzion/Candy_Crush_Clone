@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bitfuzion/Candy_Crush_Clone/static/css/main.d9bfc362.css",
+    "main.js": "/bitfuzion/Candy_Crush_Clone/static/js/main.1e2336c6.js",
+    "static/media/background.png": "/bitfuzion/Candy_Crush_Clone/static/media/background.ffbae8506616dd8e6354.png",
+    "static/media/candyThree.png": "/bitfuzion/Candy_Crush_Clone/static/media/candyThree.81c3597ae0b9120e9e75.png",
+    "static/media/candyTwo.png": "/bitfuzion/Candy_Crush_Clone/static/media/candyTwo.70f43a933b6acabdee86.png",
+    "static/media/candySeven.png": "/bitfuzion/Candy_Crush_Clone/static/media/candySeven.f00074f818465c99034c.png",
+    "static/media/candyOne.png": "/bitfuzion/Candy_Crush_Clone/static/media/candyOne.4da0fd9d20542b2f67ed.png",
+    "static/media/candyFive.png": "/bitfuzion/Candy_Crush_Clone/static/media/candyFive.d8bdadcb1dd56b0bdf03.png",
+    "static/media/candyFour.png": "/bitfuzion/Candy_Crush_Clone/static/media/candyFour.045163c9e13622aa37e4.png",
+    "static/media/candySix.png": "/bitfuzion/Candy_Crush_Clone/static/media/candySix.7f2e23ed1695378c4741.png",
+    "index.html": "/bitfuzion/Candy_Crush_Clone/index.html",
+    "main.d9bfc362.css.map": "/bitfuzion/Candy_Crush_Clone/static/css/main.d9bfc362.css.map",
+    "main.1e2336c6.js.map": "/bitfuzion/Candy_Crush_Clone/static/js/main.1e2336c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9bfc362.css",
+    "static/js/main.1e2336c6.js"
+  ]
+}
